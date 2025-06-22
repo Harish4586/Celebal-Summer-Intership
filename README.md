@@ -7,19 +7,23 @@ Table of Contents
 All the week-by-week assignments and the Final project for the Celebal Technology Summer Internship.
 
 Week 1 Assignment: Set up Node.js and create your first application
+
 Week 2 Assignment: Build a file management tool using core modules
+
 Week 3 Assignment: Convert callback-based code to Promises and Async/Await.
+
 Week 4 Assignment - Create a basic web server with Express.js.
+
 Week 5 Assignment: Create a RESTful API with Express.js and MongoDB (CRUD Operations).
 
-(back to top) ⬆️
+
 
 Week 1 Assignment - Set up Node.js and create your first application.
 
 Introduction
 ⭐️ Install Node.js and build a simple "Hello World" application. Understand the basics of Node.js runtime and execute your application.
 
-(back to top) ⬆️
+
 
 Week 2 Assignment - Build a file management tool using core modules.
 🖥️ Code: https://github.com/Harish4586/CSI-Week-2
@@ -27,7 +31,7 @@ Week 2 Assignment - Build a file management tool using core modules.
 Introduction
 ⭐️ Utilize Node.js core modules such as File System, Path, and HTTP to create a simple file management tool that can create, read, and delete files.
 
-(back to top) ⬆️
+
 
 Week 3 Assignment - Convert callback-based code to Promises and Async/Await.
 🖥️ Code: https://github.com/Harish4586/CSI-Week-3
@@ -35,7 +39,7 @@ Week 3 Assignment - Convert callback-based code to Promises and Async/Await.
 Introduction
 ⭐️ This is a Node.js project that demonstrates refactoring code from callbacks to Promises and Async/Await for better readability and error handling.
 
-(back to top) ⬆️
+
 
 Week 4 Assignment - Create a basic web server with Express.js.
 🖥️ Code: https://github.com/Harish4586/CSI-Week-4
