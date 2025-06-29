@@ -53,3 +53,19 @@ Introduction
 
 Introduction ⭐️
 This assignment focuses on building a RESTful API using Express.js and integrating it with MongoDB for persistent storage. It covers full CRUD operations (Create, Read, Update, Delete) using standard HTTP methods and MongoDB as the backend database. The project also includes usage of Mongoose for schema definition and data validation.
+
+
+
+✅ Week 6 - Build a RESTful API with CRUD (Users Resource)
+🖥️ Code: [CSI-Week-6](https://github.com/Harish4586/CSI-Week-6)
+
+Introduction:
+This week’s task focuses on building a complete RESTful API using Node.js, Express.js, and MongoDB. The API performs full CRUD operations on a user resource. Users can be created, retrieved, updated, and deleted using standard HTTP methods (POST, GET, PUT, DELETE).
+
+The project includes:
+Express routing and middleware setup
+MongoDB integration using Mongoose
+Schema validation with validator
+Clean and consistent API responses
+RESTful endpoint structure following industry standards
+This serves as a foundational backend service for applications that require user management.
